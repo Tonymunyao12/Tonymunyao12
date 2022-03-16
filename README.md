@@ -1,4 +1,12 @@
-### Hi there 👋
+### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there 👋 I'm Tonny Mulatya (:coffee:)
+
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Tonymunyao12/&title=Profile%20Views)
+
+<a href="https://twitter.com/tony_munyao">
+  <img align="left" alt="Tony Mulatya | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+
+<h3 align="center">Software Engineer | Android Developer | Data Analysis Enthusiast</h3>
 
 <!--
 **Tonymunyao12/Tonymunyao12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
